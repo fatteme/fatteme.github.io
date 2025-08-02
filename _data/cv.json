@@ -1,0 +1,42 @@
+{
+  "basics": {
+    "name": "Fatemeh Khashei",
+    "email": "&#102;&#97;&#116;&#116;&#51;&#109;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;",
+    "phone": "",
+    "website": "https://fatteme.github.io",
+    "summary": "Currently Master of Applied Science Student in Computer Engineering at University of British Columbia.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "BC"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "fatteme",
+        "url": "https://github.com/fatteme"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Sharif University of Technology",
+      "area": "B.S. in Computer Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": []
+}
